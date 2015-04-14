@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera - Data Sciene
+Coursera - Data Science - The Data Scientist’s Toolbox
